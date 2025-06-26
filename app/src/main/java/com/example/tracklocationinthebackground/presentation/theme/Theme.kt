@@ -1,4 +1,4 @@
-package com.example.tracklocationinthebackground.ui.theme
+package com.example.tracklocationinthebackground.presentation.theme
 
 import android.os.Build
 import androidx.compose.foundation.isSystemInDarkTheme

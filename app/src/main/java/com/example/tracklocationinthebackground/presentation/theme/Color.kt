@@ -1,4 +1,4 @@
-package com.example.tracklocationinthebackground.ui.theme
+package com.example.tracklocationinthebackground.presentation.theme
 
 import androidx.compose.ui.graphics.Color
 
